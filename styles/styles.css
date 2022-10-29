@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Ubuntu', sans-serif;
+    background-color: #E1F5F3;
 }
 hr {
     margin-top: 0px;
@@ -32,11 +33,10 @@ a {
     margin: auto;   
 }
 .topnavbar a:hover {
-    background-color: #d3d3d3;
+    background-color: #F5E3C9;
 }
 .topnavbar a.active {
-    background-color: #1e1e1e;
-    color: white;
+    background-color: #f3e5e3;
 }
 #article {
     display: flex;
